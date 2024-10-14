@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gasolina ou Etanol</string>
+    <string name="etValorGasolina">Valor gasolina</string>
+    <string name="etValorEtanol">Valor etanol</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvResultadoGasolina">O melhor combustivel é: Gasolina</string>
+    <string name="tvResultadoEtanol">O melhor combustivel é: Etanol</string>
+    <string name="Nome">Rodrigo Fortunato Martins Neves</string>
+    <string name="RA">1110482313035</string>
+</resources>
